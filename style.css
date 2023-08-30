@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:15px 13px;
+    font-size: 17px;
+    padding:18px;
+}
+.container{
+    background-color: rgba(17, 53, 119, 0.533);
+    padding:13px 5px 5px 13px;
+    border: 1px solid darkblue;
+    border-radius: 10px;
+}
